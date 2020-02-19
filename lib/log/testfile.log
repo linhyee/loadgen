@@ -1,0 +1,4 @@
+<MODULE>2020/02/17 01:06:49 [DEBUG]logger_test.go:29: ===> log debug content ~~666
+<MODULE>2020/02/17 01:06:49 [DEBUG]logger_test.go:30: ===> log debug content ~~888
+<MODULE>2020/02/17 01:06:49 [ERROR]logger_test.go:31: ===> log Error!!!! ~~~555~~~
+<MODULE>2020/02/17 01:06:49 [ERROR]logger_test.go:37: ===> log Error  after debug close !!!!
